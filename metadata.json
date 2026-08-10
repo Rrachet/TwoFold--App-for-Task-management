@@ -1,0 +1,6 @@
+{
+  "name": "Twofold",
+  "description": "A couple's companion app to track shared goals, plan dream dates, record memories, and build deeper intimacy through daily prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
